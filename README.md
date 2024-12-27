@@ -25,7 +25,7 @@ https://learn.microsoft.com/en-us/plans/gm88tr6o5y5zyk?tab=tab-created&source=do
 8.Get started with C# (6)
 https://learn.microsoft.com/en-us/plans/31zzc4mw2wk5re?tab=tab-created&source=docs&learnerGroupId=d6f2b5e0-f531-4d60-89c1-def5433c535d&wt.mc_id=studentamb_437158
 
-
-
 9.Azure Data Fundamentals (9)
 https://learn.microsoft.com/en-us/plans/8pkkiy5xgxnpmw?tab=tab-created&source=docs&learnerGroupId=04c22f39-41c2-469c-badd-e46ad5a7aa5b&wt.mc_id=studentamb_437158
+
+PLEASE DO IT ON PRIORITY BASIS, THANKS FOR COMPLETION AND SUPPORT!
